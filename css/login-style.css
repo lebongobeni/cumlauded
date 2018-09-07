@@ -1,0 +1,20 @@
+/* login CSS */
+
+body {
+    background-color: #505050;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#login-body .main-login {
+    padding-top: 150px;
+}
+
+#login-body .login-text {
+    text-align: center;
+}
+
+form {
+    padding-top: 30px;
+    width: 400px;    
+    margin-left: 357px;
+}

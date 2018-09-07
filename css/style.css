@@ -1,0 +1,49 @@
+
+/* Home and some universal*/
+
+.main-video {
+    background-color: #505050;
+    height: 639px;
+}
+
+iframe {
+    margin-top: 40px;
+    border: 1px solid;
+}
+footer {
+    position: fixed;
+    background-color: #1a1a1a;
+    bottom: 0px;
+    text-align: center;
+    color: white;
+    height: 50px;
+    width: 100%;
+    padding-left: -5px;
+}
+
+.text {
+    padding-top: 15px;
+}
+
+/* Index CSS */
+
+.main-index {
+    background-color: #505050;
+    padding-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #ebe8e8;
+    height: 639px;
+}
+
+.main-buttons a.btn{
+    margin: 100px 20px 0 0;
+    height: 150px;
+    width: 150px;
+    padding: 55px 10px;
+
+}
+
+.bottom-text {
+    padding-top: 100px;
+}
